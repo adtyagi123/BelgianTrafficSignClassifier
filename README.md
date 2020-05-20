@@ -1,4 +1,4 @@
-# BelgianTrafficSignClassifier
+# BelgiumTrafficSignClassifier
 
 Description: 
 
